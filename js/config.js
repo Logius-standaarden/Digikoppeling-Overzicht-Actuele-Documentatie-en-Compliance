@@ -10,7 +10,7 @@ var respecConfig = {
   // EO: Einde ondersteuning, verouderde versie, vervangen door nieuwe versie
   // TG: Versie teruggetrokken
   // BASIS, GN-BASIS: 'geen status'
-  specStatus: "WV",
+  specStatus: "DEF",
 
   // SpecType currently supported
   // NO: "Norm"
@@ -22,7 +22,7 @@ var respecConfig = {
   // AL: "Algemeen"
   // BD: "Beheerdocumentatie"
   // BP: "Best Practice"
-  specType: "HR",
+  specType: "ST",
 
   // subtitle will be shown below title, can be omitted 
   subtitle: "Hier komt een subtitle",
@@ -73,7 +73,7 @@ var respecConfig = {
   }
   ],
   // The github option allows you associate your specification with a repository on GitHub.
-  github: "https://github.com/Logius-standaarden/Template-Repository",
+  github: "https://github.com/Logius-standaarden/Overzicht-Actuele-Documentatie-en-Compliance",
 
   // The URL of your test suite, gets included in the specification's headers.
   // testSuiteURI: "https://portaal.digikoppeling.nl/CV/home.html",
@@ -122,9 +122,9 @@ var respecConfig = {
   // thi scan be configured below
   // if not set, the url's will be generated on the respecConfig.github automatically  
   nl_github: {
-    issueBase: "https://github.com/Logius-standaarden/<repository>/issues",
-    revision: "https://github.com/Logius-standaarden/<repository>/commits",
-    pullrequests: "https://github.com/Logius-standaarden/Logius-standaarden/<repository>/pulls"
+    //issueBase: "https://github.com/Logius-standaarden/Overzicht-Actuele-Documentatie-en-Compliance/issues",
+    revision: "https://github.com/Logius-standaarden/Overzicht-Actuele-Documentatie-en-Compliance/commits",
+    //pullrequests: "https://github.com/Logius-standaarden/Overzicht-Actuele-Documentatie-en-Compliance/pulls"
   },
 
   // nl_organisationName is used for some company specific values in the header (and Sotd)
@@ -138,7 +138,7 @@ var respecConfig = {
   // class style can be automatically insertd in generated markdown tables
   // currently defaults to simple, but this may change
   // options simple, data, <your css>    
-  nl_markdownTableClass: "simple",
+  nl_markdownTableClass: "dkkvs",
 
   // if nl_markdownEmbedImageInFigure is set to true images in markdown generated content will be surrounded with <figures> element
   // so that figures can be linked are be a part of table of figures
@@ -219,8 +219,5 @@ var respecConfig = {
       title: "Digikoppeling Compliance Voorziening",
       publisher: "Logius",
     },
-
-  
-
   }
 };
