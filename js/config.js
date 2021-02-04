@@ -25,18 +25,18 @@ var respecConfig = {
   specType: "ST",
 
   // subtitle will be shown below title, can be omitted 
-  subtitle: "Hier komt een subtitle",
+  //subtitle: "Hier komt een subtitle",
 
   // The specification's "short name", which is the name used in NL_Respec URLs
-  shortName: "digikoppeling",
+  shortName: "actueel",
 
   // A YYYY-MM-DD date. The publication date of the present document. 
   // Als er geen publishDate is opgegeven, genereert ReSpec de dataum o.b.v. de laatste wijzigingen
   // Belangrijk: als publishDate niet opgegeven is, wordt bij de link "Laatst gepubliceerde versie" "geen" gezet. Anders wordt een link opgebouwd voor de laatste versie, met het formaat:
-  publishDate: "2021-01-31",
+  publishDate: "2021-01-11",
 
   // A YYYY-MM-DD date. When there is a previous release of a given specification, (W3C)
-  previousPublishDate: "2021-01-31",
+  //previousPublishDate: "2021-01-31",
 
   // Zie https://github.com/w3c/respec/wiki/previousMaturity. Dit moet een
   // A YYYY-MM-DD date. When a previousPublishDate is specified, this is typically required as well in order to generate the "Previous Version"
@@ -73,7 +73,7 @@ var respecConfig = {
   }
   ],
   // The github option allows you associate your specification with a repository on GitHub.
-  github: "https://github.com/Logius-standaarden/Overzicht-Actuele-Documentatie-en-Compliance",
+  github: "https://github.com/Logius-standaarden/Digikoppeling-Overzicht-Actuele-Documentatie-en-Compliance",
 
   // The URL of your test suite, gets included in the specification's headers.
   // testSuiteURI: "https://portaal.digikoppeling.nl/CV/home.html",
@@ -110,9 +110,14 @@ var respecConfig = {
   // The specification's publish domain, which is used to publish the specification
   // the url in the header thisVersion is generated like `<conf.nl_organisationPublishURL>/<conf.pubDomain>/<specStatus>-<specType.toLowerCase()>-<conf.shortName>}-conf.publishDate>/`
   pubDomain: "dk",
+  pubSubDomain: "actueel",
 
   // For Consultatieversies (specStatus="GN-CV") there is a default text in the section "Status of this document" that contains an emailaddress for feedback and comments on the document.
   nl_emailComments: "digikoppeling@logius.nl",
+
+  // this parameter will add the tag_name of the latest release to the document Title
+  // only set this parameter when a release has been set
+  nl_addReleaseTagTitle: true,
 
   // if you use a single document for your spec, which uses more than one markdown H1 header, e.g. '# inleiding'
   // this configuration can be set to make sure that the alle H1 headers and navigation bars are preserved
@@ -123,7 +128,7 @@ var respecConfig = {
   // if not set, the url's will be generated on the respecConfig.github automatically  
   nl_github: {
     //issueBase: "https://github.com/Logius-standaarden/Overzicht-Actuele-Documentatie-en-Compliance/issues",
-    revision: "https://github.com/Logius-standaarden/Overzicht-Actuele-Documentatie-en-Compliance/commits",
+    revision: "https://github.com/Logius-standaarden/Digikoppeling-Overzicht-Actuele-Documentatie-en-Compliance/commits",
     //pullrequests: "https://github.com/Logius-standaarden/Overzicht-Actuele-Documentatie-en-Compliance/pulls"
   },
 
