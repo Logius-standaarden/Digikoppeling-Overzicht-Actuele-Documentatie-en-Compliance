@@ -1,4 +1,4 @@
-# Template-Standaard
+# Digikoppeling Overzicht Actuele Documentatie en Compliance
 
 - html: https://logius-standaarden.github.io/Digikoppeling-Overzicht-Actuele-Documentatie-en-Compliance/
 - html(static): https://logius-standaarden.github.io/Digikoppeling-Overzicht-Actuele-Documentatie-en-Compliance/snapshot.html
