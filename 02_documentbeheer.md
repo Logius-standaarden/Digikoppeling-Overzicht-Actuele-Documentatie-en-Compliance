@@ -10,3 +10,4 @@
 | 02/09/2020                       | 1.5         | Logius               | Beveiligingsstandaarden PKIO                                     |
 | 14/10/2020                       | 1.6         | Logius               | DK KVS Grote Berichten v3.3                                      |
 | 11/01/2021                       | 1.7         | Logius               | RFC 2020-2, RFC 2020-3                                           |
+| 12/03/2021                       | 1.8         | Logius               |Beveiligingsstandaarden PKIO private root                                          |
