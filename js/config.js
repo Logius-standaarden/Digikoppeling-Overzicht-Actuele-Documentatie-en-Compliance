@@ -107,11 +107,13 @@ var respecConfig = {
   //   },
   // ],
 
-  // You can use markdown to write ReSpec based documents.
-  // format: "markdown",
-  // TODO  Do not suse this config, it may cause a problem., use instead:
-  // <section data-format="markdown" data-include="<filename>.md"></section>
 
+  alternateFormats: [
+    {
+      label: "pdf",
+      uri: "Overzicht-Actuele-Documentatie-en-Compliance.pdf",
+    },
+    ],
 
 
 
