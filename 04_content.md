@@ -50,9 +50,9 @@ Dit hoofdstuk geeft aan welk onderdeel van de standaard in welk document wordt b
 
 De onderstaande figuur geeft de opbouw weer van de Digikoppeling documentatie.
 
-![Opbouw documentatie Digikoppeling](media/DK_Specificatie_structuur.png "Opbouw documentatie Digikoppeling")
+![Opbouw documentatie Digikoppeling, de documentatie is onderverdeeld in normatieve en ondersteunende onderdelen](media/DK_Specificatie_structuur.png "Opbouw documentatie Digikoppeling")
 
-**Legenda**
+<b>Legenda</b>
 
 <table class="legendum">
     <thead>
@@ -73,7 +73,7 @@ De onderstaande figuur geeft de opbouw weer van de Digikoppeling documentatie.
     </tbody>
 </table>
 
-**Beheer**
+<b>Beheer</b>
 
 - De standaarddocumenten (groen aangegeven) vallen onder het beheer zoals geformaliseerd in het document [Beheermodel en releasebeleid].
 
