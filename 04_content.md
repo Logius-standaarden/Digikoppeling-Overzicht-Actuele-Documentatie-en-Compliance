@@ -54,6 +54,7 @@ De onderstaande figuur geeft de opbouw weer van de Digikoppeling documentatie.
 
 <b>Legenda</b>
 
+
 <table class="legendum">
     <thead>
         <tr>
@@ -211,6 +212,7 @@ De onderstaande tabel laat zien welke documenten van toepassing zijn voor de imp
 | DK Best Practices EBMS                            |                | X              |                | Ondersteuning Standaard |               |
 | DK Best Practices Grote Berichten                 |                |                | X              | Ondersteuning Standaard |               |
 | DK Gebruik en achtergrond certificaten            | X              | X              | X              | Ondersteuning Standaard |               | -->
+
 
 <table class="dkcomp">
     <thead>
