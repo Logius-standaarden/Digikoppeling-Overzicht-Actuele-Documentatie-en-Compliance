@@ -66,13 +66,12 @@ De onderstaande figuur geeft de opbouw weer van de Digikoppeling documentatie.
     <tbody>
         <tr>
             <td class="green"></td>
-            []
+            
             <td>Standaard documentatie</td>
         </tr>
         <tr>
             <td class="grey"></td>
-            ()
-            
+                        
             <td>Ondersteunende documentatie</td>
         </tr>
     </tbody>
