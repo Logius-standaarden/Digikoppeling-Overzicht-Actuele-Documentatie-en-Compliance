@@ -66,10 +66,13 @@ De onderstaande figuur geeft de opbouw weer van de Digikoppeling documentatie.
     <tbody>
         <tr>
             <td class="green"></td>
+            []
             <td>Standaard documentatie</td>
         </tr>
         <tr>
             <td class="grey"></td>
+            ()
+            
             <td>Ondersteunende documentatie</td>
         </tr>
     </tbody>
@@ -77,7 +80,7 @@ De onderstaande figuur geeft de opbouw weer van de Digikoppeling documentatie.
 
 <b>Beheer</b>
 
-- De standaarddocumenten (groen aangegeven) vallen onder het beheer zoals geformaliseerd in het document [Beheermodel en releasebeleid].
+- De standaarddocumenten (groen/vierkant aangegeven) vallen onder het beheer zoals geformaliseerd in het document [Beheermodel en releasebeleid].
 
 - De ondersteunende documentatie wordt onderhouden door Logius als de beheerder van de standaard (en afgestemd met stakeholders/ gebruikers).
 
