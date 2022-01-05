@@ -92,7 +92,6 @@ De onderstaande figuur geeft de opbouw weer van de Digikoppeling documentatie.
     Totaal overzicht van de documentatie en toelichting op compliance aan de standaard;
 
 - *DK Beheermodel en Releasebeleid*
-
     Governance van de Digikoppeling standaard;
 
 ### Technische documentatie
@@ -103,11 +102,11 @@ De onderstaande figuur geeft de opbouw weer van de Digikoppeling documentatie.
 
     Overzicht van de standaard, samenhang en architectuur. Dit document beschrijft op hoofdlijnen welke manier de standaard moet worden toegepast;
 
-- *DK Identificatie en Authenticatie  
-    *Uitgangspunten en principes voor identificatie- en authenticatieafspraken die gehanteerd worden tussen overheidsorganisaties bij gebruik van de Digikoppeling standaard;
+- *DK Identificatie en Authenticatie* 
+    Uitgangspunten en principes voor identificatie- en authenticatieafspraken die gehanteerd worden tussen overheidsorganisaties bij gebruik van de Digikoppeling standaard;
 
-- *DK Beveiliging standaarden en voorschriften  
-    *Centraal document van beveiligingsvoorschriften en -standaarden die door de Digikoppeling Standaard verplicht worden gesteld;
+- *DK Beveiliging standaarden en voorschriften* 
+    Centraal document van beveiligingsvoorschriften en -standaarden die door de Digikoppeling Standaard verplicht worden gesteld;
 
 *Technische documentatie koppelvlakken*
 
