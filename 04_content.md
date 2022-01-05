@@ -38,6 +38,9 @@ De onderstaande figuur geeft de verschillende onderdelen van de digikoppeling st
 
 ![Onderdelen Digikoppeling specificatie](media/onderdelen_dk_specificatie.png "Onderdelen Digikoppeling specificatie")
 
+![Overzicht van de onderdelen van de Digikoppeling Standaard, de standaard is onderverdeeld in normatieve en ondersteunende onderdelen](https://publicatie.centrumvoorstandaarden.nl/alg/media/DK_Specificatie_structuur.svg "Opbouw documentatie Digikoppeling")
+
+
 Deze onderverdeling komt ook terug in de documentatie van de Digikoppeling standaard. Het volgende hoofdstuk behandelt de beschikbare documentatie en geeft per document aan wat de inhoud is.
 
 # Welke Digikoppeling documentatie is beschikbaar?
