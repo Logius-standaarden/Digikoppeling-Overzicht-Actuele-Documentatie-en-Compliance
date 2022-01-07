@@ -8,7 +8,8 @@ Dit hoofdstuk geeft aan welk onderdeel van de standaard in welk document wordt b
 
 De onderstaande figuur geeft de opbouw weer van de Digikoppeling documentatie.
 
-![Overzicht van de onderdelen van de Digikoppeling Standaard, de standaard is onderverdeeld in normatieve en ondersteunende onderdelen](https://publicatie.centrumvoorstandaarden.nl/alg/media/DK_Specificatie_structuur.svg "Opbouw documentatie Digikoppeling")
+![Overzicht van de onderdelen van de Digikoppeling Standaard, de standaard is onderverdeeld in normatieve en ondersteunende onderdelen](media/DK_Specificatie_structuur.svg "Opbouw documentatie Digikoppeling")
+(Zie voor een tekstuele toelichting [Digikoppeling Standaard](https://publicatie.centrumvoorstandaarden.nl#Digikoppeling_structuur)
 
 
 <b>Legenda</b>
