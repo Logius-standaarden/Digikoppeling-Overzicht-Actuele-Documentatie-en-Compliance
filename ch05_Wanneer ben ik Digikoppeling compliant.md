@@ -24,117 +24,117 @@ De onderstaande tabel laat zien welke documenten van toepassing zijn voor de imp
 | DK Gebruik en achtergrond certificaten            | X              | X              | X              | Ondersteuning Standaard |               | -->
 
 
-<table class="dkcomp">
+<table>
     <thead>
         <tr>
-            <th><strong>Digikoppeling Compliance</strong></th>
-            <th colspan="3" style="text-align: center;"><strong>Koppelvlak</strong></th>
+            <th><b>Digikoppeling Compliance</b></th>
+            <th colspan="3" style="text-align: center;"><b>Koppelvlak</b></th>
             <th></th>
             <th></th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td><strong>Document</strong></td>
-            <td><strong>WUS</strong></td>
-            <td><strong>EBMS2</strong></td>
-            <td><strong>GB</strong></td>
-            <td><strong>Type</strong></td>
-            <td><strong>Normatief</strong></td>
+            <td><b>Document</b></td>
+            <td><b>WUS</b></td>
+            <td><b>EBMS2</b></td>
+            <td><b>GB</b></td>
+            <td><b>Type</b></td>
+            <td><b>Normatief</b></td>
         </tr>
         <tr>
-            <td class="normative">DK Beheermodel en Releasebeleid</td>
-            <td class="wus">X</td>
-            <td class="ebms">X</td>
-            <td class="gb">X</td>
-            <td class="normative">Standaard</td>
-            <td class="normative"></td>
+            <td>DK Beheermodel en Releasebeleid</td>
+            <td>X</td>
+            <td>X</td>
+            <td>X</td>
+            <td>Standaard</td>
+            <td></td>
         </tr>
         <tr>
-            <td class="normative">DK Overzicht Actuele Documentatie en Compliance</td>
-            <td class="wus">X</td>
-            <td class="ebms">X</td>
-            <td class="gb">X</td>
-            <td class="normative">Standaard</td>
-            <td class="normative"></td>
+            <td>DK Overzicht Actuele Documentatie en Compliance</td>
+            <td>X</td>
+            <td>X</td>
+            <td>X</td>
+            <td>Standaard</td>
+            <td></td>
         </tr>
         <tr>
-            <td class="normative">DK Architectuur</td>
-            <td class="wus">X</td>
-            <td class="ebms">X</td>
-            <td class="gb">X</td>
-            <td class="normative">Standaard</td>
-            <td class="normative">X</td>
+            <td>DK Architectuur</td>
+            <td>X</td>
+            <td>X</td>
+            <td>X</td>
+            <td>Standaard</td>
+            <td>X</td>
         </tr>
         <tr>
-            <td class="normative">DK Koppelvlakstandaard WUS</td>
-            <td class="wus">X</td>
-            <td class="ebms"></td>
-            <td class="gb">O<sup>1</sup></td>
-            <td class="normative">Standaard</td>
-            <td class="normative">X</td>
+            <td>DK Koppelvlakstandaard WUS</td>
+            <td>X</td>
+            <td></td>
+            <td>O<sup>1</sup></td>
+            <td>Standaard</td>
+            <td>X</td>
         </tr>
         <tr>
-            <td class="normative">DK Koppelvlakstandaard EBMS2</td>
-            <td class="wus"></td>
-            <td class="ebms">X</td>
-            <td class="gb">O<sup>1</sup></td>
-            <td class="normative">Standaard</td>
-            <td class="normative">X</td>
+            <td>DK Koppelvlakstandaard EBMS2</td>
+            <td></td>
+            <td>X</td>
+            <td>O<sup>1</sup></td>
+            <td>Standaard</td>
+            <td>X</td>
         </tr>
         <tr>
-            <td class="normative">DK Koppelvlakstandaard Grote Berichten</td>
-            <td class="wus">O<sup>1</sup></td>
-            <td class="ebms">O<sup>1</sup></td>
-            <td class="gb">X</td>
-            <td class="normative">Standaard</td>
-            <td class="normative">X</td>
+            <td>DK Koppelvlakstandaard Grote Berichten</td>
+            <td>O<sup>1</sup></td>
+            <td>O<sup>1</sup></td>
+            <td>X</td>
+            <td>Standaard</td>
+            <td>X</td>
         </tr>
         <tr>
-            <td class="normative">DK Identificatie en Authenticatie</td>
-            <td class="wus">X</td>
-            <td class="ebms">X</td>
-            <td class="gb">X</td>
-            <td class="normative">Standaard</td>
-            <td class="normative">X</td>
+            <td>DK Identificatie en Authenticatie</td>
+            <td>X</td>
+            <td>X</td>
+            <td>X</td>
+            <td>Standaard</td>
+            <td>X</td>
         </tr>
         <tr>
-            <td class="normative">DK Beveiliging standaarden en voorschriften</td>
-            <td class="wus">X</td>
-            <td class="ebms">X</td>
-            <td class="gb">X</td>
-            <td class="normative">Standaard</td>
-            <td class="normative">X</td>
+            <td>DK Beveiliging standaarden en voorschriften</td>
+            <td>X</td>
+            <td>X</td>
+            <td>X</td>
+            <td>Standaard</td>
+            <td>X</td>
         </tr>
         <tr>
             <td class="informative">DK Best Practices WUS</td>
-            <td class="wus">X</td>
-            <td class="ebms"></td>
-            <td class="gb"></td>
+            <td>X</td>
+            <td></td>
+            <td></td>
             <td class="informative">Ondersteuning Standaard</td>
             <td class="informative"></td>
         </tr>
         <tr>
             <td class="informative">DK Best Practices EBMS</td>
-            <td class="wus"></td>
-            <td class="ebms">X</td>
-            <td class="gb"></td>
+            <td></td>
+            <td>X</td>
+            <td></td>
             <td class="informative">Ondersteuning Standaard</td>
             <td class="informative"></td>
         </tr>
         <tr>
             <td class="informative">DK Best Practices Grote Berichten</td>
-            <td class="wus"></td>
-            <td class="ebms"></td>
-            <td class="gb">X</td>
+            <td></td>
+            <td></td>
+            <td>X</td>
             <td class="informative">Ondersteuning Standaard</td>
             <td class="informative"></td>
         </tr>
         <tr>
             <td class="informative">DK Gebruik en achtergrond certificaten</td>
-            <td class="wus">X</td>
-            <td class="ebms">X</td>
-            <td class="gb">X</td>
+            <td>X</td>
+            <td>X</td>
+            <td>X</td>
             <td class="informative">Ondersteuning Standaard</td>
             <td class="informative"></td>
         </tr>
