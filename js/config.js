@@ -111,7 +111,7 @@ var respecConfig = {
   alternateFormats: [
     {
       label: "pdf",
-      uri: "Overzicht-Actuele-Documentatie-en-Compliance.pdf",
+      uri: "Digikoppeling-Overzicht-Actuele-Documentatie-en-Compliance.pdf",
     },
     ],
 
