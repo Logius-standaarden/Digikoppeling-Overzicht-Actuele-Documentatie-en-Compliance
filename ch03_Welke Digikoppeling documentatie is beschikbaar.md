@@ -127,10 +127,10 @@ De onderstaande figuur geeft de opbouw weer van de Digikoppeling documentatie.
     Koppelvlakspecificatie voor het gebruik van WUS conform Digikoppeling;
 
 - *DK Koppelvlakstandaard EBMS2*  
-    Koppelvlakspecificatie voor het gebruik van ebMS 2.0  conform Digikoppeling;
+    Koppelvlakspecificatie voor het gebruik van ebMS 2.0 conform Digikoppeling;
 
 - *DK Koppelvlakstandaard REST API*  
-    Koppelvlakspecificatie voor het gebruik van REST-API (gebaseerd op ADR)  conform Digikoppeling;
+    Koppelvlakspecificatie voor het gebruik van REST-API (gebaseerd op ADR) conform Digikoppeling;
 
 - *DK Koppelvlakstandaard Grote Berichten*  
     Koppelvlakspecificatie voor het uitwisselen van grote berichten conform Digikoppeling. Grote berichten zijn XML berichten of bijlagen die een bepaalde bestandsgrootte overschrijden;
