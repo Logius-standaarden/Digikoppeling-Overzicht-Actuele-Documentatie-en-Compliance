@@ -38,6 +38,11 @@ De onderstaande figuur geeft de opbouw weer van de Digikoppeling documentatie.
 									<li> <i><a href="https://publicatie.centrumvoorstandaarden.nl/dk/bpebms">Best-practice ebMS2</a></i>† </li>
 								</ul>
 							</li>
+							<li> <a href="https://publicatie.centrumvoorstandaarden.nl/dk/restapi/">DK Koppelvlakstandaard REST API</a>*
+								<ul>
+									<li> <i><a href="https://publicatie.centrumvoorstandaarden.nl/dk/restapi">Best-practice REST API</a></i>†</li>
+								</ul>
+							</li>
 							<li> <a href="https://publicatie.centrumvoorstandaarden.nl/dk/gb/">DK Koppelvlakstandaard Grote Berichten</a>*
 								<ul>
 									<li> <i><a href="https://publicatie.centrumvoorstandaarden.nl/dk/bpgb">Best-practice Grote Berichten</a></i>†</li>
@@ -119,10 +124,13 @@ De onderstaande figuur geeft de opbouw weer van de Digikoppeling documentatie.
 *Technische documentatie koppelvlakken*
 
 - *DK Koppelvlakstandaard WUS*   
-    Koppelvlakspecificatie voor het gebruik van WUS voor het doen van bevragingen conform Digikoppeling;
+    Koppelvlakspecificatie voor het gebruik van WUS conform Digikoppeling;
 
 - *DK Koppelvlakstandaard EBMS2*  
-    Koppelvlakspecificatie voor het gebruik van ebMS 2.0 voor het doen van meldingen conform Digikoppeling;
+    Koppelvlakspecificatie voor het gebruik van ebMS 2.0 conform Digikoppeling;
+
+- *DK Koppelvlakstandaard REST API*  
+    Koppelvlakspecificatie voor het gebruik van REST-API (gebaseerd op ADR) conform Digikoppeling;
 
 - *DK Koppelvlakstandaard Grote Berichten*  
     Koppelvlakspecificatie voor het uitwisselen van grote berichten conform Digikoppeling. Grote berichten zijn XML berichten of bijlagen die een bepaalde bestandsgrootte overschrijden;
@@ -134,6 +142,10 @@ De onderstaande figuur geeft de opbouw weer van de Digikoppeling documentatie.
 
 - *DK Best Practices EBMS2*  
     Best Practices voor EBMS2 implementatie;
+
+- *DK Best Practices REST API*  
+    Best Practices voor REST API implementatie;
+	(toekomstige uitbreiding)
 
 - *DK Best Practices Grote Berichten*  
     Best Practices voor Grote Berichten implementatie;

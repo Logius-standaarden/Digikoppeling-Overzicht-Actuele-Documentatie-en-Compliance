@@ -66,6 +66,14 @@ De onderstaande tabel laat zien welke documenten van toepassing zijn voor de imp
             <td>Standaard</td>
             <td>X</td>
         </tr>
+         <tr>
+            <td>DK Koppelvlakstandaard REST API</td>
+            <td>X</td>
+            <td></td>
+            <td>O<sup>1</sup></td>
+            <td>Standaard</td>
+            <td>X</td>
+        </tr>
         <tr>
             <td>DK Koppelvlakstandaard WUS</td>
             <td>X</td>
