@@ -2,34 +2,34 @@
 
 De onderstaande tabel geeft de huidige versies van de Digikoppeling documenten weer.
 
-| Document                                         | Versie | Normatief | Geldig vanaf | Geldig  tot |
-|--------------------------------------------------|--------|-----------|--------------|-------------|
-| Wat is Digikoppeling                             | 1.1.2  |           | 11-04-2022   |             |
-| DK Beheermodel en releasebeleid                  | 1.5.0  |           | 19-10-2017   |             |
-| DK Architectuur                                  | 2.0.0  | X         | 11-04-2022   |             |
-| DK Koppelvlakstandaard REST API                  | 1.0.0  | X          | 11-04-2022   |             |
-| DK Koppelvlakstandaard WUS                       | 3.8.1  | X         | 11-04-2022   |             |
-| DK Koppelvlakstandaard EBMS2                     | 3.3.1   | X         | 11-04-2022   |             |
-| DK Koppelvlakstandaard Grote Berichten           | 3.8.1   | X         | 11-04-2022   |             |
-| DK Identificatie en Authenticatie                | 1.4.2   | X         | 11-04-2022  |             |
-| DK Beveiligingstandaarden en voorschriften       | 1.4.0    | X         | 12-03-2021   |             |
-| DK Overzicht Actuele Documentatie en Compliance  | 1.9.0    | X         | 11-04-2022   |             |
-| DK Best Practices WUS                            | 1.10.1   |           | 11-04-2022   |             |
-| DK Best Practices EBMS2                          | 3.2.1    |           | 11-04-2022   |             |
-| DK Best Practices Grote Berichten                | 3.1.0    |           | 19-10-2017   |             |
-| DK Gebruik en achtergrond certificaten           | 1.6.2  |           | 11-04-2022|
+| Document                                        | Versie | Normatief | Geldig vanaf | Geldig  tot |
+| ----------------------------------------------- | ------ | --------- | ------------ | ----------- |
+| Wat is Digikoppeling                            | 1.1.2  |           | 11-04-2022   |             |
+| DK Beheermodel en releasebeleid                 | 1.5.0  |           | 19-10-2017   |             |
+| DK Architectuur                                 | 2.0.0  | X         | 11-04-2022   |             |
+| DK Koppelvlakstandaard REST API                 | 1.0.0  | X         | 11-04-2022   |             |
+| DK Koppelvlakstandaard WUS                      | 3.8.1  | X         | 11-04-2022   |             |
+| DK Koppelvlakstandaard EBMS2                    | 3.3.1  | X         | 11-04-2022   |             |
+| DK Koppelvlakstandaard Grote Berichten          | 3.8.1  | X         | 11-04-2022   |             |
+| DK Identificatie en Authenticatie               | 1.4.2  | X         | 11-04-2022   |             |
+| DK Beveiligingsstandaarden en voorschriften     | 1.4.0  | X         | 12-03-2021   |             |
+| DK Overzicht Actuele Documentatie en Compliance | 1.9.0  | X         | 11-04-2022   |             |
+| DK Best Practices WUS                           | 1.10.1 |           | 11-04-2022   |             |
+| DK Best Practices EBMS2                         | 3.2.1  |           | 11-04-2022   |             |
+| DK Best Practices Grote Berichten               | 3.1.1  |           | 11-04-2022   |             |
+| DK Gebruik en achtergrond certificaten          | 1.6.2  |           | 11-04-2022   |             |
 
 Tabel 1: Digikoppeling document versies
 
 Toelichting Normatief:  
-  
+
 In de kolom ‘Normatief’ wordt met ‘X’ aangegeven dat het document specifieke regels bevat waar men zich aan moet houden om te voldoen aan de Digikoppeling standaard (Zie ook H5 Wanneer ben ik Digikoppeling compliant).
 
 De onderstaande tabel geeft de voorgaande versies van de Digikoppeling documenten weer.
 
 | Document                                        | Versie | Normatief | Geldig vanaf | Geldig tot |
-|-------------------------------------------------|--------|-----------|--------------|------------|
-| DK Koppelvlakstandaard EBMS2                    | 3.3    | X         | 16-05-2019   | 11-04-2022 | 
+| ----------------------------------------------- | ------ | --------- | ------------ | ---------- |
+| DK Koppelvlakstandaard EBMS2                    | 3.3    | X         | 16-05-2019   | 11-04-2022 |
 | DK Koppelvlakstandaard ebMS2                    | 3.2    | x         | 19-10-2017   | 16-05-2019 |
 | DK Best Practices EBMS2                         | 3.2    |           | 16-05-2019   | 11-04-2022 |
 | DK Best Practices ebMS2                         | 3.1    |           | 19-10-2017   | 16-05-2019 |
@@ -38,7 +38,7 @@ De onderstaande tabel geeft de voorgaande versies van de Digikoppeling documente
 | DK Koppelvlakstandaard WUS                      | 3.6    | X         | 21-08-2018   | 16-05-2019 |
 | DK Koppelvlakstandaard WUS                      | 3.5    | X         | 19-07-2018   | 21-08-2018 |
 | DK Best Practices WUS                           | 1.10   |           | 19-10-2017   | 11-04-2022 |
-| Wat is Digikoppeling                            | 1.1.1  |           | 23-07-2018   | 11-04-2022 | 
+| Wat is Digikoppeling                            | 1.1.1  |           | 23-07-2018   | 11-04-2022 |
 | Wat is Digikoppeling                            | 1.1    |           | 19-10-2017   | 23-07-2018 |
 | DK Architectuur                                 | 1.5.1  | X         | 23-07-2018   | 11-04-2022 |
 | DK Architectuur                                 | 1.5    | X         | 19-10-2017   | 23-07-2018 |
@@ -61,4 +61,3 @@ De onderstaande tabel geeft de voorgaande versies van de Digikoppeling documente
 | DK Overzicht Actuele Documentatie en Compliance | 1.0    | X         | 19-07-2018   | 23-07-2018 |
 
 Tabel 2: Vorige versies Digikoppeling documenten per koppelvlak
-
