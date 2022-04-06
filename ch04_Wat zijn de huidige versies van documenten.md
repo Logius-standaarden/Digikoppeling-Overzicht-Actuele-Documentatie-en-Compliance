@@ -10,7 +10,7 @@ De onderstaande tabel geeft de huidige versies van de Digikoppeling documenten w
 | DK Koppelvlakstandaard REST API                  | 1.0.0  | X          | 11-04-2022   |             |
 | DK Koppelvlakstandaard WUS                       | 3.8.1  | X         | 11-04-2022   |             |
 | DK Koppelvlakstandaard EBMS2                     | 3.3.1   | X         | 11-04-2022   |             |
-| DK Koppelvlakstandaard Grote Berichten           | 3.3.1   | X         | 11-04-2022   |             |
+| DK Koppelvlakstandaard Grote Berichten           | 3.8.1   | X         | 11-04-2022   |             |
 | DK Identificatie en Authenticatie                | 1.4.1   | X         | 11-04-2022  |             |
 | DK Beveiliging standaarden en voorschriften      | 1.4.0    | X         | 12-03-2021   |             |
 | DK Overzicht  Actuele Documentatie en Compliance | 1.9.0    | X         | 11-04-2022   |             |
