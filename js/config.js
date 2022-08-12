@@ -36,13 +36,13 @@ var respecConfig = {
   // A YYYY-MM-DD date. The publication date of the present document. 
   // Als er geen publishDate is opgegeven, genereert ReSpec de dataum o.b.v. de laatste wijzigingen
   // Belangrijk: als publishDate niet opgegeven is, wordt bij de link "Laatst gepubliceerde versie" "geen" gezet. Anders wordt een link opgebouwd voor de laatste versie, met het formaat:
-  publishDate: "2022-04-11",
+  publishDate: "2022-08-12",
 
   // A YYYY-MM-DD date. When there is a previous release of a given specification, (W3C)
   previousPublishDate: "2021-03-12",
 
-  publishVersion: "1.9.0",
-  previousPublishVersion: "1.8",
+  publishVersion: "1.9.1",
+  previousPublishVersion: "1.9.0",
 
   // Zie https://github.com/w3c/respec/wiki/previousMaturity. Dit moet een
   // A YYYY-MM-DD date. When a previousPublishDate is specified, this is typically required as well in order to generate the "Previous Version"
