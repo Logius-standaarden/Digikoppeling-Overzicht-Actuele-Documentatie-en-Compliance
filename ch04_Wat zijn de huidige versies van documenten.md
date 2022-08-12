@@ -42,6 +42,7 @@ De onderstaande tabel geeft de voorgaande versies van de Digikoppeling documente
 | DK Beveiligingsstandaarden en voorschriften     | 1.2.*  | X         | 17-12-2019   | 02-09-2020 |
 | DK Beveiligingsstandaarden en voorschriften     | 1.1.*  | X         | 19-10-2017   | 17-12-2019 |
 | DK Gebruik en achtergrond certificaten          | 1.5.*  |           | 19-10-2017   | 02-09-2020 |
+| DK Overzicht Actuele Documentatie en Compliance | 1.8.*  | X         | 12-03-2021   | 11-04-2022 |
 | DK Overzicht Actuele Documentatie en Compliance | 1.7.*  | X         | 10-01-2021   | 12-03-2021 |
 | DK Overzicht Actuele Documentatie en Compliance | 1.6.*  | X         | 14-10-2020   | 10-01-2021 |
 | DK Overzicht Actuele Documentatie en Compliance | 1.5.*  | X         | 02-09-2020   | 14-10-2020 |
