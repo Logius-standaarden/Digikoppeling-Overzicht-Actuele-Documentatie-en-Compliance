@@ -20,11 +20,11 @@ var respecConfig = {
       }
     ],
   github: "https://github.com/Logius-standaarden/Digikoppeling-Overzicht-Actuele-Documentatie-en-Compliance",
-  previousPublishDate: "2022-08-12",
-  previousPublishVersion: "1.9.1",
+  previousPublishDate: "2022-11-14",
+  previousPublishVersion: "1.10",
   pubDomain: "dk",
-  publishDate: "2022-11-14",
-  publishVersion: "1.10",
+  publishDate: "2023-10-17",
+  publishVersion: "1.10.1",
   shortName: "actueel",
   specStatus: "DEF",
   specType: "ST"

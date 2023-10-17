@@ -170,6 +170,6 @@ Tabel 3: Digikoppeling documentatie per koppelvlak
 
 ## Toelichting compliance
 
-De tabel in de voorgaande paragraaf geeft aan welke combinatie van documenten tezamen een complete specificatie vormt voor Digikoppeling op basis van WUS, EBMS2 of Grote berichten. Een koppelvlak implementatie voldoet aan de digikoppeling standaard als deze conform de principes, afspraken en gestelde eisen uit de normatieve documenten is uitgewerkt. Om de compliance van software in de een praktijksituatie te testen is de Digikoppeling Compliancy Voorziening ontwikkeld. Deze voorziening is onderdeel van het Digikoppeling Portaal en beschikbaar op <https://portaal.digikoppeling.nl>.
+De tabel in de voorgaande paragraaf geeft aan welke combinatie van documenten tezamen een complete specificatie vormt voor Digikoppeling op basis van WUS, EBMS2 of Grote berichten. Een koppelvlak implementatie voldoet aan de digikoppeling standaard als deze conform de principes, afspraken en gestelde eisen uit de normatieve documenten is uitgewerkt. Om de compliance van software in de een praktijksituatie te testen is de Digikoppeling Compliancy Voorziening ontwikkeld. Deze voorziening is als Docker image beschikbaar op [GitLab](https://gitlab.com/logius/digikoppeling-compliance/).
 
 De Digikoppeling Compliancy Voorziening moet gezien worden als een hulpmiddel. Bij afwijking tussen de documentatie en de Compliance Voorziening zijn de eisen in de documentatie leidend bij het beoordelen of software de Digikoppeling standaard correct implementeert.
