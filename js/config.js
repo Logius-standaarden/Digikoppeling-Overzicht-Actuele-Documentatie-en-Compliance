@@ -26,6 +26,6 @@ var respecConfig = {
   publishDate: "2022-11-14",
   publishVersion: "1.10",
   shortName: "actueel",
-  specStatus: "DEF",
+  specStatus: "WV",
   specType: "ST"
 };
