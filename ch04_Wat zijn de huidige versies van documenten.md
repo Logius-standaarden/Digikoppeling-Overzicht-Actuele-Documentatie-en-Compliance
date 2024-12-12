@@ -8,7 +8,7 @@ Patchversies (hieronder weergegeven met een asterisk) raken de technische specif
 | Wat is Digikoppeling                            | 1.1.*  |           | 19-10-2017   |             |
 | DK Beheermodel en releasebeleid                 | 1.5.*  |           | 19-10-2017   |             |
 | DK Architectuur                                 | 2.0.*  | X         | 11-04-2022   |             |
-| DK Koppelvlakstandaard REST API                 | 1.1.*  | X         | 14-11-2022   |             |
+| DK Koppelvlakstandaard REST API                 | 2.0.*  | X         | 18-12-2024  |             |
 | DK Koppelvlakstandaard WUS                      | 3.8.*  | X         | 11-01-2021   |             |
 | DK Koppelvlakstandaard ebMS2                    | 3.3.*  | X         | 16-05-2019   |             |
 | DK Koppelvlakstandaard Grote Berichten          | 3.8.*  | X         | 11-04-2022   |             |
