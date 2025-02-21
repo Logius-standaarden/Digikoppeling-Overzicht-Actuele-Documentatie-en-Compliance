@@ -25,11 +25,11 @@ De onderstaande figuur geeft de opbouw weer van de Digikoppeling documentatie.
     </thead>
     <tbody>
         <tr>
-            <td class="green"></td>
+            <td class="green">Groen</td>
             <td>Standaard documentatie</td>
         </tr>
         <tr>
-            <td class="grey"></td>
+            <td class="grey">Grijs</td>
             <td>Ondersteunende documentatie</td>
         </tr>
     </tbody>
