@@ -38,11 +38,11 @@ De onderstaande figuur geeft de opbouw weer van de Digikoppeling documentatie.
 
 <b>Beheer</b>
 
-- De standaarddocumenten (groen/vierkant aangegeven) vallen onder het beheer zoals geformaliseerd in het document [Beheermodel en releasebeleid].
+- De standaarddocumenten (groen/vierkant aangegeven) vallen onder het beheer zoals geformaliseerd in het document [[[?DK-Beheermodel]]].
 
 - De ondersteunende documentatie wordt onderhouden door Logius als de beheerder van de standaard (en afgestemd met stakeholders/ gebruikers).
 
-- Alle goedgekeurde documenten zijn te vinden op de website van Logius, [www.logius.nl](http://www.logius.nl/digikoppeling).
+- Alle goedgekeurde documenten zijn te vinden op de website van Logius, [www.logius.nl](https://www.logius.nl/onze-dienstverlening/domeinen/gegevensuitwisseling/digikoppeling).
 
 ## Overzicht documentatie
 
