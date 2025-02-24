@@ -8,60 +8,10 @@ Dit hoofdstuk geeft aan welk onderdeel van de standaard in welk document wordt b
 
 De onderstaande figuur geeft de opbouw weer van de Digikoppeling documentatie.
 
-![Overzicht van de onderdelen van de Digikoppeling Standaard, de standaard is onderverdeeld in normatieve en ondersteunende onderdelen](media/DK_Specificatie_structuur.svg "Opbouw documentatie Digikoppeling")
-
-
-<details>
-    <summary> Tekstalternatief </summary>
-<ul>
-	<li>Digikoppeling Standaard
-		<ul>
-			<li> <a href="https://publicatie.centrumvoorstandaarden.nl/dk/beheer/">DK Beheermodel en releasebeleid</a>* </li>
-			<li> <a href="https://publicatie.centrumvoorstandaarden.nl/dk/actueel/">DK Overzicht Actuele Documentatie en Compliance</a>* </li>
-			<li> <a href="https://publicatie.centrumvoorstandaarden.nl/dk/architectuur">DK Architectuur</a>*
-				<ul>
-					<li> <a href="https://publicatie.centrumvoorstandaarden.nl/dk/idauth/">DK Identificatie en Authenticatie</a>*
-						<ul>
-							<li><i> <a href="https://publicatie.centrumvoorstandaarden.nl/dk/gbachtcert/">Digikoppeling Gebruik en Achtergronden Certificaten</a></i>† </li>
-						</ul>
-					</li>
-					<li> <a href="https://publicatie.centrumvoorstandaarden.nl/dk/beveilig/">DK Beveiligingsstandaarden en voorschriften</a>* </li>
-					<li>Koppelvlakstandaarden
-						<ul>
-							<li> <a href="https://publicatie.centrumvoorstandaarden.nl/dk/wus/">DK Koppelvlakstandaard WUS</a>*
-								<ul>
-									<li><i><a href="https://publicatie.centrumvoorstandaarden.nl/dk/bpwus">Best-practice WUS</a></i>† </li>
-								</ul>
-							</li>
-							<li> <a href="https://publicatie.centrumvoorstandaarden.nl/dk/ebms/">DK Koppelvlakstandaard ebMS2</a>*
-								<ul>
-									<li> <i><a href="https://publicatie.centrumvoorstandaarden.nl/dk/bpebms">Best-practice ebMS2</a></i>† </li>
-								</ul>
-							</li>
-							<li> <a href="https://publicatie.centrumvoorstandaarden.nl/dk/restapi/">DK Koppelvlakstandaard REST API</a>*
-								<ul>
-									<li> <i><a href="https://publicatie.centrumvoorstandaarden.nl/dk/restapi">Best-practice REST API</a></i>†</li>
-								</ul>
-							</li>
-							<li> <a href="https://publicatie.centrumvoorstandaarden.nl/dk/gb/">DK Koppelvlakstandaard Grote Berichten</a>*
-								<ul>
-									<li> <i><a href="https://publicatie.centrumvoorstandaarden.nl/dk/bpgb">Best-practice Grote Berichten</a></i>†</li>
-								</ul>
-							</li>
-						</ul>
-					</li>
-				</ul>
-			</li>
-			<li>
-    <i><a href="https://publicatie.centrumvoorstandaarden.nl/dk/watisdk/">Wat is Digikoppeling</a></i>†
-  </li>
-		</ul>
-	</li>
-</ul>
-<p>* Normatief document</p>
-<p>† Ondersteunend document</p>
-</details>
-
+<figure>
+  <object data="media/DK_Specificatie_structuur.svg" type="image/svg+xml" id="infographic">Overzicht van de onderdelen van de Digikoppeling Standaard, de standaard is onderverdeeld in normatieve en ondersteunende onderdelen</object>
+  <figcaption>Opbouw documentatie Digikoppeling</figcaption>
+</figure>
 
 <b>Legenda</b>
 
@@ -75,11 +25,11 @@ De onderstaande figuur geeft de opbouw weer van de Digikoppeling documentatie.
     </thead>
     <tbody>
         <tr>
-            <td class="green"></td>
+            <td class="green">Groen</td>
             <td>Standaard documentatie</td>
         </tr>
         <tr>
-            <td class="grey"></td>
+            <td class="grey">Grijs</td>
             <td>Ondersteunende documentatie</td>
         </tr>
     </tbody>
@@ -88,11 +38,11 @@ De onderstaande figuur geeft de opbouw weer van de Digikoppeling documentatie.
 
 <b>Beheer</b>
 
-- De standaarddocumenten (groen/vierkant aangegeven) vallen onder het beheer zoals geformaliseerd in het document [Beheermodel en releasebeleid].
+- De standaarddocumenten (groen/vierkant aangegeven) vallen onder het beheer zoals geformaliseerd in het document [[[?DK-Beheermodel]]].
 
 - De ondersteunende documentatie wordt onderhouden door Logius als de beheerder van de standaard (en afgestemd met stakeholders/ gebruikers).
 
-- Alle goedgekeurde documenten zijn te vinden op de website van Logius, [www.logius.nl](http://www.logius.nl/digikoppeling).
+- Alle goedgekeurde documenten zijn te vinden op de website van Logius, [www.logius.nl](https://www.logius.nl/onze-dienstverlening/domeinen/gegevensuitwisseling/digikoppeling).
 
 ## Overzicht documentatie
 
