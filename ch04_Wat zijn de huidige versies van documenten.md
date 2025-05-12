@@ -7,7 +7,7 @@ Patchversies (hieronder weergegeven met een asterisk) raken de technische specif
 | ----------------------------------------------- | ------ | --------- | ------------ | ----------- |
 | Wat is Digikoppeling                            | 1.1.*  |           | 19-10-2017   |             |
 | DK Beheermodel en releasebeleid                 | 1.5.*  |           | 19-10-2017   |             |
-| DK Architectuur                                 | 2.1.*  | X         | 30-01-2025   |             |
+| DK Architectuur                                 | 2.2.*  | X         | 15-05-2025   |             |
 | DK Koppelvlakstandaard REST API                 | 1.1.*  | X         | 14-11-2022  |  01-01-2027 <sup>[1](#f1)</sup> |
 | DK Koppelvlakstandaard REST API                 | 3.0.*  | X         | 15-05-2025  |             |
 | DK Koppelvlakstandaard WUS                      | 3.8.*  | X         | 11-01-2021   |             |
@@ -44,6 +44,7 @@ De onderstaande tabel geeft de voorgaande versies van de Digikoppeling documente
 | DK Koppelvlakstandaard REST API                 | 1.1.*  | X         | 14-11-2022  |  01-01-2027 |
 | DK Koppelvlakstandaard REST API                 | 1.0.*  | X         | 11-04-2022   | 14-11-2022 |  
 | DK Koppelvlakstandaard REST API                 | 2.0.*  | X         | 30-01-2025   | 15-05-2025 |  
+| DK Architectuur                                 | 2.1.*  | X         | 30-01-2025   |  15-05-2025|          |
 | DK Architectuur                                 | 2.0.*  | X         | 11-04-2022   | 30-01-2025 |
 | DK Architectuur                                 | 1.5.*  | X         | 19-10-2017   | 11-04-2022 |
 | DK Koppelvlakstandaard Grote Berichten          | 3.3.*  | X         | 14-10-2020   | 11-04-2022 |
