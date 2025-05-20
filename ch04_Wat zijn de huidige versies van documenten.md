@@ -9,8 +9,8 @@ Patchversies (hieronder weergegeven met een asterisk) raken de technische specif
 | DK Beheermodel en releasebeleid                 | 1.5.*  |           | 19-10-2017   |             |
 | DK Architectuur                                 | 2.1.*  | X         | 30-01-2025   |             |   
 | DK Koppelvlakstandaard REST API                 | 1.1.*  | X         | 14-11-2022   |  01-01-2027 <sup>[1](#f1)</sup> |
-| DK Koppelvlakstandaard REST API                 | 2.0.*  |           | 30-01-2025   |             |
-| DK Koppelvlakstandaard REST API <br><small>Versie 3.0 is gebaseerd op ADR 2.0 welke nog door het Forum standaardisatie wordt beoordeeld voor plaatsing op de PTLU Lijst (en is daarom hier nog niet aangegeven als normatief)</small>               | 3.0.*  | X         | 15-05-2025   |             |
+| DK Koppelvlakstandaard REST API                 | 2.0.*  | X         | 30-01-2025   |             |
+| DK Koppelvlakstandaard REST API <br><small>Versie 3.0 is gebaseerd op ADR 2.0 welke nog door het Forum standaardisatie wordt beoordeeld voor plaatsing op de PTLU Lijst (en is daarom hier nog niet aangegeven als normatief)</small>               | 3.0.*  |           | 15-05-2025   |             |
 | DK Koppelvlakstandaard WUS                      | 3.8.*  | X         | 11-01-2021   |             |
 | DK Koppelvlakstandaard ebMS2                    | 3.3.*  | X         | 16-05-2019   |             |
 | DK Koppelvlakstandaard Grote Berichten          | 3.8.*  | X         | 11-04-2022   |             |
@@ -44,7 +44,6 @@ De onderstaande tabel geeft de voorgaande versies van de Digikoppeling documente
 | DK Koppelvlakstandaard WUS                      | 3.5.*  | X         | 19-07-2018   | 21-08-2018 |
 | DK Koppelvlakstandaard REST API                 | 1.1.*  | X         | 14-11-2022  |  01-01-2027 |
 | DK Koppelvlakstandaard REST API                 | 1.0.*  | X         | 11-04-2022   | 14-11-2022 |  
-| DK Koppelvlakstandaard REST API                 | 2.0.*  | X         | 30-01-2025   | 15-05-2025 |  
 | DK Architectuur                                 | 2.0.*  | X         | 11-04-2022   | 30-01-2025 |
 | DK Architectuur                                 | 1.5.*  | X         | 19-10-2017   | 11-04-2022 |
 | DK Koppelvlakstandaard Grote Berichten          | 3.3.*  | X         | 14-10-2020   | 11-04-2022 |
