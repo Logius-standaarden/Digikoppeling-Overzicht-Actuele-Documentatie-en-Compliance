@@ -13,5 +13,5 @@
 | 12/03/2021                       | 1.8         | Logius               | Beveiligingsstandaarden PKIO private root                        |
 | 11/04/2022                       | 1.9         | Logius               | Toevoeging REST-API koppelvlakstandaard                          |
 | 14/11/2022                       | 1.10        | Logius               | Wijziging REST-API koppelvlakstandaard RFC API-58                |
-| 14/11/2022                       | 1.11        | Logius               | Wijziging REST-API koppelvlakstandaard mbt FSC                   |
-| 14/11/2022                       | 1.12        | Logius               | Wijziging REST-API koppelvlakstandaard Signing & Encryptie       |
+| 30/01/2025                       | 1.11        | Logius               | Wijziging REST-API koppelvlakstandaard mbt FSC                   |
+| 15/05/2025                       | 1.12        | Logius               | Wijziging REST-API koppelvlakstandaard Signing & Encryptie       |
