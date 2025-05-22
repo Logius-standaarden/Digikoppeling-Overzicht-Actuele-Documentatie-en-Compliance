@@ -35,7 +35,6 @@ De onderstaande figuur geeft de opbouw weer van de Digikoppeling documentatie.
     </tbody>
 </table>
 
-
 <b>Beheer</b>
 
 - De standaarddocumenten (groen/vierkant aangegeven) vallen onder het beheer zoals geformaliseerd in het document [[[?DK-Beheermodel]]].
@@ -43,6 +42,13 @@ De onderstaande figuur geeft de opbouw weer van de Digikoppeling documentatie.
 - De ondersteunende documentatie wordt onderhouden door Logius als de beheerder van de standaard (en afgestemd met stakeholders/ gebruikers).
 
 - Alle goedgekeurde documenten zijn te vinden op de website van Logius, [www.logius.nl](https://www.logius.nl/onze-dienstverlening/domeinen/gegevensuitwisseling/digikoppeling).
+
+### Uitfaseringsbericht
+
+In het kader van Life-Cycle Management wordt het DK WUS koppelvlak gemarkeerd als 'Uit te faseren'.
+- Einde ondersteuning: 01-01-2028
+- Einde gebruik: 01-01-2033
+- Legacygebruik is toegestaan tot 01-01-2033, maar organisaties zijn na 2028 zelf verantwoordelijk voor functionele en security-updates.
 
 ## Overzicht documentatie
 
