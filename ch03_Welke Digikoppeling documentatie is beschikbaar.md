@@ -45,10 +45,16 @@ De onderstaande figuur geeft de opbouw weer van de Digikoppeling documentatie.
 
 ### Uitfaseringsbericht
 
-In het kader van Life-Cycle Management wordt het DK WUS koppelvlak gemarkeerd als 'Uit te faseren'.
-- Einde ondersteuning: 01-01-2028
-- Einde gebruik: 01-01-2033
-- Legacygebruik is toegestaan tot 01-01-2033, maar organisaties zijn na 2028 zelf verantwoordelijk voor functionele en security-updates.
+<div class="note" title="Toelichting op asterisk bij DK-WUS">
+  <p>De asterisk (<strong>*</strong>) achter <code>DK-WUS</code> duidt aan dat deze koppelvlakstandaard wordt uitgefaseerd.</p>
+  <p>In het kader van Life-Cycle Management is het DK WUS-koppelvlak gemarkeerd als <em>“Uit te faseren”</em>.</p>
+  <ul>
+    <li><strong>Einde ondersteuning:</strong> 01-01-2028</li>
+    <li><strong>Einde gebruik:</strong> 01-01-2033</li>
+    <li>Legacygebruik is toegestaan tot 01-01-2033, maar organisaties zijn na 2028 zelf verantwoordelijk voor functionele en security-updates.</li>
+  </ul>
+</div>
+
 
 ## Overzicht documentatie
 
