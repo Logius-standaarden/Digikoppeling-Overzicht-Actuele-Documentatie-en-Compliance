@@ -32,10 +32,6 @@ De onderstaande figuur geeft de opbouw weer van de Digikoppeling documentatie.
             <td class="grey">Grijs</td>
             <td>Ondersteunende documentatie</td>
         </tr>
-	<tr>
-            <td class="deprecated">Asterix -> *</td>
-            <td>Uitgefaseerd</td>
-        </tr>
     </tbody>
 </table>
 
