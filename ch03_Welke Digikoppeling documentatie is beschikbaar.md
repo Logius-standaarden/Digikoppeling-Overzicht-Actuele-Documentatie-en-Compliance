@@ -46,7 +46,7 @@ De onderstaande figuur geeft de opbouw weer van de Digikoppeling documentatie.
 ### Uitfaseringsbericht
 
 <div class="note" title="Toelichting op asterisk bij DK-WUS">
-  <p>De asterisk (<strong>*</strong>) achter <code>DK-WUS</code> duidt aan dat deze koppelvlakstandaard wordt uitgefaseerd.</p>
+  <p>De asterisk (<strong>*</strong>) achter <code>DK koppelvlak-standaard WUS</code> duidt aan dat deze koppelvlakstandaard wordt uitgefaseerd.</p>
   <p>In het kader van Life-Cycle Management is het DK WUS-koppelvlak gemarkeerd als <em>“Uit te faseren”</em>.</p>
   <ul>
     <li><strong>Einde ondersteuning:</strong> 01-01-2028</li>
