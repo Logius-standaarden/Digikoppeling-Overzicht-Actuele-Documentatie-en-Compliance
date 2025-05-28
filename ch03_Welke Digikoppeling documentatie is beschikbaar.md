@@ -35,7 +35,6 @@ De onderstaande figuur geeft de opbouw weer van de Digikoppeling documentatie.
     </tbody>
 </table>
 
-
 <b>Beheer</b>
 
 - De standaarddocumenten (groen/vierkant aangegeven) vallen onder het beheer zoals geformaliseerd in het document [[[?DK-Beheermodel]]].
@@ -43,6 +42,12 @@ De onderstaande figuur geeft de opbouw weer van de Digikoppeling documentatie.
 - De ondersteunende documentatie wordt onderhouden door Logius als de beheerder van de standaard (en afgestemd met stakeholders/ gebruikers).
 
 - Alle goedgekeurde documenten zijn te vinden op de website van Logius, [www.logius.nl](https://www.logius.nl/onze-dienstverlening/domeinen/gegevensuitwisseling/digikoppeling).
+
+### Uitfaseringsbericht
+
+<div class="note" title="Toelichting asterisk">
+  <p>De asterisk (<strong>*</strong>) achter DK koppelvlak-standaard WUS geeft aan dat deze koppelvlakstandaard wordt uitgefaseerd.</p>
+</div>
 
 ## Overzicht documentatie
 
