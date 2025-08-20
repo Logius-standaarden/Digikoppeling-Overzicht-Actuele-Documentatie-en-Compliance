@@ -1,4 +1,6 @@
-var respecConfig = {
+import { loadRespecWithConfiguration } from "https://logius-standaarden.github.io/publicatie/respec/organisation-config.mjs";
+
+loadRespecWithConfiguration({
   alternateFormats: [ { 
         "label" : "pdf",
         "uri" : "Digikoppeling-Overzicht-Actuele-Documentatie-en-Compliance.pdf"
@@ -28,4 +30,4 @@ var respecConfig = {
   shortName: "actueel",
   specStatus: "DEF",
   specType: "ST"
-};
+});
