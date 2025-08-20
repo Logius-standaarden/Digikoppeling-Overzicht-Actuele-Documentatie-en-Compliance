@@ -22,7 +22,7 @@ Patchversies (hieronder weergegeven met een asterisk) raken de technische specif
 | DK Best Practices Grote Berichten               | 3.1.*  |           | 11-04-2022   |             |
 | DK Gebruik en achtergrond certificaten          | 1.6.*  |           | 02-09-2020   |             |
 
-<a name="f1"></a><sup>1</sup>: *Actuele versie van Koppelvlakstandaard REST API is 2.0, bestaande implementaties mogen tot de einddatum gebruik maken van versie 1.1*
+<span id="f1"></span><sup>1</sup>: *Actuele versie van Koppelvlakstandaard REST API is 2.0, bestaande implementaties mogen tot de einddatum gebruik maken van versie 1.1*
 
 
 
