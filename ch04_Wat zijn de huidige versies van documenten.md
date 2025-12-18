@@ -28,6 +28,8 @@ Toelichting Normatief:
 
 In de kolom ‘Normatief’ wordt met ‘X’ aangegeven dat het document specifieke regels bevat waar men zich aan moet houden om te voldoen aan de Digikoppeling standaard (Zie ook H5 Wanneer ben ik Digikoppeling compliant).
 
+## Voorgaande versies
+
 De onderstaande tabel geeft de voorgaande versies van de Digikoppeling documenten weer.
 
 | Document                                        | Versie | Normatief | Geldig vanaf | Geldig tot |
