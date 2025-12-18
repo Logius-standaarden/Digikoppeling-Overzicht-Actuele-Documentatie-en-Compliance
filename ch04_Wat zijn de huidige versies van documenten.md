@@ -8,7 +8,7 @@ Patchversies (hieronder weergegeven met een asterisk) raken de technische specif
 | Wat is Digikoppeling                            | 1.1.*  |           | 19-10-2017   |             |
 | DK Beheermodel en releasebeleid                 | 1.5.*  |           | 19-10-2017   |             |
 | DK Architectuur                                 | 2.1.*  | X         | 30-01-2025   |             |   
-| DK Koppelvlakstandaard REST API           | 3.0.*  |  X <sup>[1](#f1)</sup>         | 05-11-2025   |             |
+| DK Koppelvlakstandaard REST API           | 3.0.*  |  X <sup>[1](#f1), [2](#f2)</sup> | 05-11-2025   |             |
 | DK Koppelvlakstandaard WUS                      | 3.8.*  | X         | 11-01-2021   |             |
 | DK Koppelvlakstandaard ebMS2                    | 3.3.*  | X         | 16-05-2019   |             |
 | DK Koppelvlakstandaard Grote Berichten          | 3.8.*  | X         | 11-04-2022   |             |
@@ -20,13 +20,8 @@ Patchversies (hieronder weergegeven met een asterisk) raken de technische specif
 | DK Best Practices Grote Berichten               | 3.1.*  |           | 11-04-2022   |             |
 | DK Gebruik en achtergrond certificaten          | 1.6.*  |           | 02-09-2020   |             |
 
-<span id="f1"></span><sup>1</sup>: - *Actuele versie van Koppelvlakstandaard REST API is 3.0, bestaande implementaties mogen tot de einddatum gebruik maken van versie 1.1 en 2.0*
-- * Versie 3.0 heeft 05-11-2025 pas-toe-of-leg-uit status van het Forum standaardisatie gekregen*
-
-
-
-
-
+<p><span id="f1"></span><sup>1</sup>: <em>Actuele versie van Koppelvlakstandaard REST API is 3.0, bestaande implementaties mogen tot de einddatum gebruik maken van versie 1.1 en 2.0.</em>
+<p><span id="f2"></span><sup>2</sup>: <em>Versie 3.0 heeft 05-11-2025 pas-toe-of-leg-uit status van het Forum standaardisatie gekregen.</em>
 
 Tabel 1: Digikoppeling document versies
 

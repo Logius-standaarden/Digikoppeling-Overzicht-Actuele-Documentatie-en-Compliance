@@ -18,11 +18,11 @@ loadRespecWithConfiguration({
       }
     ],
   github: "https://github.com/Logius-standaarden/Digikoppeling-Overzicht-Actuele-Documentatie-en-Compliance",
-  previousPublishDate: "2025-01-30",
-  previousPublishVersion: "1.11.0",
+  previousPublishDate: "2025-05-15",
+  previousPublishVersion: "1.12.1",
   pubDomain: "dk",
-  publishDate: "2025-05-15",
-  publishVersion: "1.12.1",
+  publishDate: "2025-11-05",
+  publishVersion: "1.12.2",
   shortName: "actueel",
   specStatus: "DEF",
   specType: "ST"
