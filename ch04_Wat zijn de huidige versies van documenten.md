@@ -8,9 +8,7 @@ Patchversies (hieronder weergegeven met een asterisk) raken de technische specif
 | Wat is Digikoppeling                            | 1.1.*  |           | 19-10-2017   |             |
 | DK Beheermodel en releasebeleid                 | 1.5.*  |           | 19-10-2017   |             |
 | DK Architectuur                                 | 2.1.*  | X         | 30-01-2025   |             |   
-| DK Koppelvlakstandaard REST API                 | 1.1.*  | X         | 14-11-2022   |  01-01-2027 <sup>[1](#f1)</sup> |
-| DK Koppelvlakstandaard REST API                 | 2.0.*  | X         | 30-01-2025   |             |
-| DK Koppelvlakstandaard REST API <br><small>Versie 3.0 is gebaseerd op ADR 2.0 welke nog door het Forum standaardisatie wordt beoordeeld voor plaatsing op de PTLU Lijst (en is daarom hier nog niet aangegeven als normatief)</small>               | 3.0.*  |           | 15-05-2025   |             |
+| DK Koppelvlakstandaard REST API                 | 3.0.*  |  X <sup>[1](#f1), [2](#f2)</sup> | 05-11-2025 | |
 | DK Koppelvlakstandaard WUS                      | 3.8.*  | X         | 11-01-2021   |             |
 | DK Koppelvlakstandaard ebMS2                    | 3.3.*  | X         | 16-05-2019   |             |
 | DK Koppelvlakstandaard Grote Berichten          | 3.8.*  | X         | 11-04-2022   |             |
@@ -22,12 +20,9 @@ Patchversies (hieronder weergegeven met een asterisk) raken de technische specif
 | DK Best Practices Grote Berichten               | 3.1.*  |           | 11-04-2022   |             |
 | DK Gebruik en achtergrond certificaten          | 1.6.*  |           | 02-09-2020   |             |
 
-<a name="f1"></a><sup>1</sup>: *Actuele versie van Koppelvlakstandaard REST API is 2.0, bestaande implementaties mogen tot de einddatum gebruik maken van versie 1.1*
-
-
-
-
 Tabel 1: Digikoppeling document versies
+
+<p><span id="f1"></span><sup>1</sup>: <em>Versie 3.0 heeft 05-11-2025 pas-toe-of-leg-uit status van het Forum standaardisatie gekregen.</em>
 
 Toelichting Normatief:  
 
@@ -44,13 +39,14 @@ De onderstaande tabel geeft de voorgaande versies van de Digikoppeling documente
 | DK Koppelvlakstandaard WUS                      | 3.7.*  | X         | 16-05-2019   | 10-01-2021 |
 | DK Koppelvlakstandaard WUS                      | 3.6.*  | X         | 21-08-2018   | 16-05-2019 |
 | DK Koppelvlakstandaard WUS                      | 3.5.*  | X         | 19-07-2018   | 21-08-2018 |
-| DK Koppelvlakstandaard REST API                 | 1.1.*  | X         | 14-11-2022  |  01-01-2027 |
+| DK Koppelvlakstandaard REST API                 | 2.0.*  | X         | 30-01-2025   | 01-01-2027 <sup>[2](#f2)</sup> |
+| DK Koppelvlakstandaard REST API                 | 1.1.*  | X         | 14-11-2022   | 01-01-2027 <sup>[2](#f2)</sup> |
 | DK Koppelvlakstandaard REST API                 | 1.0.*  | X         | 11-04-2022   | 14-11-2022 |  
 | DK Architectuur                                 | 2.0.*  | X         | 11-04-2022   | 30-01-2025 |
 | DK Architectuur                                 | 1.5.*  | X         | 19-10-2017   | 11-04-2022 |
 | DK Koppelvlakstandaard Grote Berichten          | 3.3.*  | X         | 14-10-2020   | 11-04-2022 |
 | DK Koppelvlakstandaard Grote Berichten          | 3.2.*  | X         | 19-10-2017   | 11-10-2020 |
-| DK Beveiligingsstandaarden en voorschriften     | 1.4.*  | X         | 12-03-2021   | 15-05-2025 |            |
+| DK Beveiligingsstandaarden en voorschriften     | 1.4.*  | X         | 12-03-2021   | 15-05-2025 |
 | DK Beveiligingsstandaarden en voorschriften     | 1.3.*  | X         | 02-09-2020   | 12-03-2021 |
 | DK Beveiligingsstandaarden en voorschriften     | 1.2.*  | X         | 17-12-2019   | 02-09-2020 |
 | DK Beveiligingsstandaarden en voorschriften     | 1.1.*  | X         | 19-10-2017   | 17-12-2019 |
@@ -70,3 +66,5 @@ De onderstaande tabel geeft de voorgaande versies van de Digikoppeling documente
 | DK Overzicht Actuele Documentatie en Compliance | 1.0.*  | X         | 19-07-2018   | 23-07-2018 |
 
 Tabel 2: Vorige versies Digikoppeling documenten per koppelvlak
+
+<p><span id="f2"></span><sup>2</sup>: <em>Actuele versie van Koppelvlakstandaard REST API is 3.0, bestaande implementaties mogen tot de einddatum gebruik maken van versie 1.1 en 2.0.</em>
