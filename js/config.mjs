@@ -3,26 +3,21 @@ import { loadRespecWithConfiguration } from "https://logius-standaarden.github.i
 loadRespecWithConfiguration({
   authors: [ { 
         "name" : "Pieter Hering",
-        "url" : "https://logius.nl/standaarden"
+        "company" : "Logius",
+        "url" : "https://www.logius.nl"
       } ],
   editors: [ 
       { 
         "name" : "Peter Haasnoot",
-        "url" : "https://logius.nl/standaarden"
-      },
-      { 
         "company" : "Logius",
-        "companyURL" : "https://logius.nl/standaarden",
-        "mailto" : "api@digikoppeling.nl",
-        "name" : "Pieter Hering"
+        "url" : "https://www.logius.nl"
       }
     ],
   github: "https://github.com/Logius-standaarden/Digikoppeling-Overzicht-Actuele-Documentatie-en-Compliance",
-  previousPublishDate: "2025-05-15",
-  previousPublishVersion: "1.12.1",
+  previousPublishVersion: "1.12.2",
   pubDomain: "dk",
-  publishDate: "2025-11-05",
-  publishVersion: "1.12.2",
+  publishDate: "2026-04-21",
+  publishVersion: "1.13.0",
   shortName: "actueel",
   specStatus: "DEF",
   specType: "ST"
