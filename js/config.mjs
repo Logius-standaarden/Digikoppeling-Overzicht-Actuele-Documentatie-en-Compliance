@@ -17,7 +17,7 @@ loadRespecWithConfiguration({
   previousPublishVersion: "1.12.2",
   pubDomain: "dk",
   publishDate: "2026-04-21",
-  publishVersion: "1.13",
+  publishVersion: "1.13.0",
   shortName: "actueel",
   specStatus: "DEF",
   specType: "ST"
