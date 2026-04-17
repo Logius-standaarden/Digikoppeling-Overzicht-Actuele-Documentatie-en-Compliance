@@ -13,7 +13,7 @@ Patchversies (hieronder weergegeven met een asterisk) raken de technische specif
 | DK Koppelvlakstandaard ebMS2                    | 3.3.*  | X         | 16-05-2019   |             |
 | DK Koppelvlakstandaard Grote Berichten          | 3.8.*  | X         | 11-04-2022   |             |
 | DK Identificatie en Authenticatie               | 1.5.*  | X         | 15-05-2025   |             |
-| DK Beveiligingsstandaarden en voorschriften     | 3.0.*  | X         | 15-05-2025   |             |
+| DK Beveiligingsstandaarden en voorschriften     | 3.0.*  | X         | 21-04-2025   |             |
 | DK Overzicht Actuele Documentatie en Compliance | 1.13.*  | X        | 21-04-2026   |             |
 | DK Best Practices WUS                           | 1.10.* |           | 19-10-2017   |             |
 | DK Best Practices ebMS2                         | 3.2.*  |           | 16-05-2019   |             |
