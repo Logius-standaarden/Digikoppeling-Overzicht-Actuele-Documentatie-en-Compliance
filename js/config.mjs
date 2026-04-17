@@ -11,11 +11,6 @@ loadRespecWithConfiguration({
         "name" : "Peter Haasnoot",
         "company" : "Logius",
         "url" : "https://www.logius.nl"
-      },
-      { 
-        "company" : "Logius",
-        "companyURL" : "https://www.logius.nl",
-        "name" : "Pieter Hering"
       }
     ],
   github: "https://github.com/Logius-standaarden/Digikoppeling-Overzicht-Actuele-Documentatie-en-Compliance",
