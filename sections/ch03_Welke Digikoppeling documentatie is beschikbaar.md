@@ -15,7 +15,6 @@ De onderstaande figuur geeft de opbouw weer van de Digikoppeling documentatie.
 
 <b>Legenda</b>
 
-
 <table class="legendum">
     <thead>
         <tr>
@@ -35,7 +34,6 @@ De onderstaande figuur geeft de opbouw weer van de Digikoppeling documentatie.
     </tbody>
 </table>
 
-
 <b>Beheer</b>
 
 - De standaarddocumenten (groen/vierkant aangegeven) vallen onder het beheer zoals geformaliseerd in het document [[[?DK-Beheermodel]]].
@@ -48,10 +46,10 @@ De onderstaande figuur geeft de opbouw weer van de Digikoppeling documentatie.
 
 ### Algemene documentatie
 
-- *Wat is Digikoppeling?*  
+- *Wat is Digikoppeling?*
     Inleidend document over Digikoppeling
 
-- *DK Overzicht Actuele Documentatie en Compliance*  
+- *DK Overzicht Actuele Documentatie en Compliance*
     Totaal overzicht van de documentatie en toelichting op compliance aan de standaard;
 
 - *DK Beheermodel en Releasebeleid*
@@ -59,47 +57,45 @@ De onderstaande figuur geeft de opbouw weer van de Digikoppeling documentatie.
 
 ### Technische documentatie
 
-*Technische documentatie algemeen*
+#### Technische documentatie algemeen
 
 - *DK Architectuur*
 
     Overzicht van de standaard, samenhang en architectuur. Dit document beschrijft op hoofdlijnen welke manier de standaard moet worden toegepast;
 
-- *DK Identificatie en Authenticatie* 
+- *DK Identificatie en Authenticatie*
     Uitgangspunten en principes voor identificatie- en authenticatieafspraken die gehanteerd worden tussen overheidsorganisaties bij gebruik van de Digikoppeling standaard;
 
-- *DK Beveiliging standaarden en voorschriften* 
+- *DK Beveiliging standaarden en voorschriften*
     Centraal document van beveiligingsvoorschriften en -standaarden die door de Digikoppeling Standaard verplicht worden gesteld;
 
-*Technische documentatie koppelvlakken*
+#### Technische documentatie koppelvlakken
 
-- *DK Koppelvlakstandaard WUS*   
+- *DK Koppelvlakstandaard WUS*
     Koppelvlakspecificatie voor het gebruik van WUS conform Digikoppeling;
 
-- *DK Koppelvlakstandaard EBMS2*  
+- *DK Koppelvlakstandaard EBMS2*
     Koppelvlakspecificatie voor het gebruik van ebMS 2.0 conform Digikoppeling;
 
-- *DK Koppelvlakstandaard REST API*  
+- *DK Koppelvlakstandaard REST API*
     Koppelvlakspecificatie voor het gebruik van REST-API (gebaseerd op ADR) conform Digikoppeling;
 
-- *DK Koppelvlakstandaard Grote Berichten*  
+- *DK Koppelvlakstandaard Grote Berichten*
     Koppelvlakspecificatie voor het uitwisselen van grote berichten conform Digikoppeling. Grote berichten zijn XML berichten of bijlagen die een bepaalde bestandsgrootte overschrijden;
 
-*Ondersteunende Documentatie*
+#### Ondersteunende Documentatie
 
-- *DK Best Practices WUS*  
+- *DK Best Practices WUS*
     Best Practices voor WUS implementatie;
 
-- *DK Best Practices EBMS2*  
+- *DK Best Practices EBMS2*
     Best Practices voor EBMS2 implementatie;
 
-- *DK Best Practices REST API*  
-    Best Practices voor REST API implementatie;
-	(toekomstige uitbreiding)
+- *DK Best Practices REST API*
+    Best Practices voor REST API implementatie; (toekomstige uitbreiding)
 
-- *DK Best Practices Grote Berichten*  
+- *DK Best Practices Grote Berichten*
     Best Practices voor Grote Berichten implementatie;
 
-- *DK Gebruik en achtergrond certificaten*  
+- *DK Gebruik en achtergrond certificaten*
     Toelichting gebruik en achtergrond DK certificaten;
-

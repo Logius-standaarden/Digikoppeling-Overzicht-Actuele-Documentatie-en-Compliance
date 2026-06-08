@@ -6,24 +6,6 @@ Voor de implementatie van een bepaald koppelvlak volgens de Digikoppeling standa
 
 De onderstaande tabel laat zien welke documenten van toepassing zijn voor de implementatie van een bepaald koppelvlak. De kolom Koppelvlak toont per koppelvlak WUS, EBMS2, API, Grote Berichten de bijbehorende documentatie.
 
-
-<!-- | **Digikoppeling Compliance**                      | **Koppelvlak**  | |                |                |                         |               |
-|---------------------------------------------------|----------------|----------      |----------      |--------        |-------------------------|---------------|
-| **Document**                                      | **WUS**        | **EBMS2**      | **API**      | **GB**         | **Type**                | **Normatief** |
-| DK Beheermodel en Releasebeleid                   | X              | X              | X              | X              | Standaard               |               |
-| DK Overzicht Actuele Documentatie en Compliance   | X              | X              | X              | X              | Standaard               |               |
-| DK Architectuur                                   | X              | X              | X              | X              | Standaard               | X             |
-| DK Koppelvlakstandaard WUS                        | X              |                |                | O<sup>1</sup>  | Standaard               | X             |
-| DK Koppelvlakstandaard EBMS2                      |                | X              | X              | O<sup>1</sup>  | Standaard               | X             |
-| DK Koppelvlakstandaard Grote Berichten            | O<sup>1</sup>  | O<sup>1</sup>  | O<sup>1</sup>  | X              | Standaard               | X             |
-| DK Identificatie en Authenticatie                 | X              | X              | X              | X              | Standaard               | X             |
-| DK Beveiliging standaarden en voorschriften       | X              | X              | X              | X              | Standaard               | X             |
-| DK Best Practices WUS                             | X              |                |                |                | Ondersteuning Standaard |               |
-| DK Best Practices EBMS                            |                | X              | X              |                | Ondersteuning Standaard |               |
-| DK Best Practices Grote Berichten                 |                |                |                | X              | Ondersteuning Standaard |               |
-| DK Gebruik en achtergrond certificaten            | X              | X              | X              | X              | Ondersteuning Standaard |               | -->
-
-
 <table>
     <thead>
         <tr>
@@ -162,7 +144,6 @@ De onderstaande tabel laat zien welke documenten van toepassing zijn voor de imp
         </tr>
     </tbody>
 </table>
-
 
 <sup>1</sup> O=gebruik van WUS óf ebMS2 óf API . Binnen de Grote Berichten standaard wordt eerst een metadatabericht gestuurd om een aan te kondigen dat een bestand klaar staat om te downloaden. Voor dit metadatabericht dient WUS, ebMS2 of API gebruikt te worden.
 
