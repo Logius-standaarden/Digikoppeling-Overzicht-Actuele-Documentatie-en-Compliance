@@ -13,4 +13,3 @@ Dit document is bedoeld voor ICT-professionals in de publieke sector en voor ICT
 ## Verantwoording
 
 Dit document is tot stand gekomen in samenwerking met leden van het Technisch Overleg Digikoppeling.
-

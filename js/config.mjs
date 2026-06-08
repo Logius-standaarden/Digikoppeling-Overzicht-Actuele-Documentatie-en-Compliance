@@ -4,13 +4,13 @@ loadRespecWithConfiguration({
   authors: [ { 
         "name" : "Pieter Hering",
         "company" : "Logius",
-        "url" : "https://www.logius.nl"
+        "companyURL" : "https://www.logius.nl"
       } ],
   editors: [ 
       { 
         "name" : "Peter Haasnoot",
         "company" : "Logius",
-        "url" : "https://www.logius.nl"
+        "companyURL" : "https://www.logius.nl"
       },
       { 
         "company" : "Logius",
